@@ -1,6 +1,6 @@
 # Sorted Stack Maintenance 
 
-This is a Java-based implementayion for maintaining a **sorted stack.** 
+This is a Java-based implementation for maintaining a **sorted stack.** 
 
 ## Features 
 
